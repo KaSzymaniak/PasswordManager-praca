@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Środowiska wirtualne
+venv/
+env/
+ENV/
+.venv/
+
+# Zmienne środowiskowe
+.env
+.env.*
+
+# Baza danych SQLite
+*.db
+*.sqlite3
+
+# Vue / Vite
+node_modules/
+dist/
+.vite/
+*.local
+
+# Logi
+*.log
+*.pid
+
+# IDE i edytory
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db
+
+# Raporty testów
+htmlcov/
+coverage.xml
+.cache/
+.pytest_cache/
